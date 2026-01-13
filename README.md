@@ -1,5 +1,8 @@
 # CatNoteInput
 
+[![CI](https://github.com/aoliaoduo/CatNoteInput/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/aoliaoduo/CatNoteInput/actions/workflows/ci.yml)
+[![Release](https://img.shields.io/github/v/release/aoliaoduo/CatNoteInput?display_name=tag&sort=semver)](https://github.com/aoliaoduo/CatNoteInput/releases)
+
 A minimal Windows WPF client for sending notes to CatNote via the official API.
 
 ## Features
@@ -11,6 +14,10 @@ A minimal Windows WPF client for sending notes to CatNote via the official API.
 ## Requirements
 - Windows 10/11
 - .NET 8 SDK (for building)
+
+## Download
+Get the latest Windows build from GitHub Releases:
+https://github.com/aoliaoduo/CatNoteInput/releases
 
 ## Build
 ```bash
